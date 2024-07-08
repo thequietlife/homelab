@@ -1,12 +1,10 @@
-# 🧪 home lab notes  
+# 🧪 reading list 
 
-Goals:
 
-## July 2024
 
-|     | Daily Log |
-| ----------- | ----------- |
-| Day 1      | xx    |
-| Day 2    | xx      |
-| Day 3    | xx source: [code.org](https://youtu.be/mTGSiB4kB18)|
-| Day 4    | xx|
+|     |  |
+| ----------- | ---------------- | 
+| Michael Sikorski & Andrew Honig | Practical Malware Analysis | 
+| MalwareUnicorn | [Malwareunicorn.org](https://malwareunicorn.org/#/workshops) | 
+| hasherezade | [hasherezade's 1001 nights](https://hshrzd.wordpress.com/how-to-start/)| 
+| xx  | xx |
