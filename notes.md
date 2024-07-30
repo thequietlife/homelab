@@ -19,7 +19,7 @@
 | Joff Thyer | [How To Improve Network Security For People Working From Home](https://youtu.be/Oon_SGqxu4g?si=fCm7R4c7NMIkovjV) | 
 | c3rb3r3u5d3d53c | [Beginner Malware Analyst CopyPasta](https://c3rb3ru5d3d53c.github.io/2022/06/malware-analysis-beginner-guide/#getting-started) |
 | Thinkst Blog | [Unfashionably secure: why we use isolated VMs](https://blog.thinkst.com/2024/07/unfashionably-secure-why-we-use-isolated-vms.html) |
-
+| r/homelab | [New r/homelab Users Start Here](https://www.reddit.com/r/homelab/comments/15jt90s/new_rhomelab_users_start_here/) |
 
 
 
