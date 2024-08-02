@@ -29,7 +29,7 @@
 
 |     |  |
 | ----------- | ---------------- | 
-| 1.  |  Map out current state. Work out what I want out of a home lab. Joff Thyer "solid security is built upon a foundation of good architecture, the layer on extra security features"  |
+| 1.  |  Map out current state. Work out what I want out of a home lab. Joff Thyer "solid security is built upon a foundation of good architecture, then layer on extra security features". Network segmentation - home office zone; home entertainment - streaming, browsing zone  |
 | xx | xx |
 
 
