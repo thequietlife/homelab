@@ -1,4 +1,4 @@
-# 🧪 reading list 
+# 🔬 reading list 
 
 |     |  |
 | ----------- | ---------------- | 
@@ -25,7 +25,11 @@
 | Troy Hunt | [Ubiquiti all the things: how I finally fixed my dodgy wifi](https://www.troyhunt.com/ubiquiti-all-the-things-how-i-finally-fixed-my-dodgy-wifi) |
 | Michael Horowitz | [A second router can make working from home much more secure](https://www.michaelhorowitz.com/second.router.for.wfh.php) |
 
+# 📏 steps
 
-
+|     |  |
+| ----------- | ---------------- | 
+| 1.  |  Map out current state. Work out what I want out of a home lab. Joff Thyer "solid security is built upon a foundation of good architecture, the layer on extra security features"  |
+| xx | xx |
 
 
