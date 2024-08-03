@@ -2,10 +2,11 @@
 
 |     |  |
 | ----------- | ---------------- | 
-| Iain Dickson | [homelab part 1: the history](https://wan0.net/posts/homelab-history/#homelab-v8-the-golden-age-2023) |
+| Iain Dickson | [homelab part 1: the history](https://wan0.net/posts/homelab-history/#homelab-v8-the-golden-age-2023)|
 | Patrick Kennedy | [ServeTheHome](https://www.servethehome.com/introducing-project-tinyminimicro-home-lab-revolution/) |
 | Joff Thyer | [How To Improve Network Security For People Working From Home](https://youtu.be/Oon_SGqxu4g?si=fCm7R4c7NMIkovjV) | 
 | rustla | [Do You Want To Build An AD Lab?](https://github.com/rustla/talks/blob/main/DoYouWantToBuildAnADLab.pdf)|
+|  emdwyer | [Rebuilding Homelab - Part 1](https://www.emdwyer.dev/2021-03-24-rebuilding-homelab/) |
 | Michael Sikorski & Andrew Honig | [Practical Malware Analysis](https://nostarch.com/malware) | 
 | MalwareUnicorn | [Malwareunicorn.org](https://malwareunicorn.org/#/workshops) | 
 | hasherezade | [hasherezade's 1001 nights](https://hshrzd.wordpress.com/how-to-start/)| 
