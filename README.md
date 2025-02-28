@@ -1,7 +1,7 @@
 # Securing my home office network 
 
 
-Aim: Segment network (home office, fam/guest)
+Aim: Segment network (home office | guest)
 
 Gear:
 - [Netgear 8 port managed switch](https://www.netgear.com/au/business/wired/switches/plus/gs108e/)
