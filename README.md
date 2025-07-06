@@ -8,6 +8,7 @@ Hardware:
 - 2 x [Lenovo ThinkCentre M910q](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m910q/11tc1mt910q)
 - [GL.iNet Slate AX (GL-AXT1800)](https://www.gl-inet.com/products/gl-axt1800/)
 
+Process:
 - ASUS RT-AX86S router: using guest network for homelab
 - GL-AXT1800 set up (repeater)
 - Mullvad VPN for GL-AXT1800
