@@ -1,7 +1,7 @@
 # Notes
 
 
-Aim: Securing my home office network.‘Raising the bar’. ‘purpose built devices rather than all in one’: Joff Thyer. 
+Aim: Securing my home office network. ‘Raising the bar’. ‘purpose built devices rather than all in one’: Joff Thyer. 
 
 Hardware:
 - [Netgear 8 port managed switch](https://www.netgear.com/au/business/wired/switches/plus/gs108e/)
@@ -17,6 +17,10 @@ Process:
 - Switch firmware update: select .bin file not whole zip folder
 - GL-AXT1800 has two VLANS out of the box: Private and Guest
 - Updated passwords wifi
+- VLANs: Virtual ports on top of physical ports. Connect devices to separate networks - Guest network, smart devices, video surveillance devices
+- LuCI
+
+
 
 
 
