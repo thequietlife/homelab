@@ -4,9 +4,12 @@
 Aim: Securing my home office network. ‘Raising the bar’. ‘purpose built devices rather than all in one’: Joff Thyer. 
 
 Hardware:
-- [Netgear 8 port managed switch](https://www.netgear.com/au/business/wired/switches/plus/gs108e/)
-- 2 x [Lenovo ThinkCentre M910q](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m910q/11tc1mt910q)
-- [GL.iNet Slate AX (GL-AXT1800)](https://www.gl-inet.com/products/gl-axt1800/)
+
+- 2 x Lenovo ThinkCentre M910q $199 x 2
+- GL.iNet Slate AX (GL-AXT1800) $110
+- Netgear 8 port managed switch $91
+- CAT 6 Ultra Thin Ethernet Cables $12
+
 
 Process:
 - ASUS RT-AX86S router: using guest network for homelab
