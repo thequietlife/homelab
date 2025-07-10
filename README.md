@@ -9,7 +9,10 @@ Hardware:
 - GL.iNet Slate AX (GL-AXT1800) $110
 - Netgear 8 port managed switch $91
 - CAT 6 Ultra Thin Ethernet Cables $12
+- Total: $610.64
 
+Software:
+- mullvad VPN $9/month
 
 Process:
 - ASUS RT-AX86S router: using guest network for homelab
