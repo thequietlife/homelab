@@ -26,7 +26,7 @@ Process:
 - VLANs: Virtual ports on top of physical ports. Connect devices to separate networks - Guest network, smart devices, video surveillance devices
 - LuCI
 
-
+- Took an Raspberry Pi 2 and put Pi-hole on it. Good to use a old RPi that was sitting in my drawer. Not sure if I will keep it long term. Wifi seems to be crappier over the last few days.
 
 
 
@@ -40,6 +40,5 @@ Process:
 __________________
 Sources: 
 1. [Pandemic Paradigm Shift - Remote working is the New Normal, Black Hills Information Security](https://www.youtube.com/watch?v=Oon_SGqxu4g&t=2733s)
-2. [Home Router Setup | OPNSense, The Smoking Cap](https://www.youtube.com/watch?v=Kah0OTKieEU)
 
 
