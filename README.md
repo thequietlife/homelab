@@ -3,30 +3,7 @@
 
 Aim: Securing my home office network. ‘Raising the bar’. ‘purpose built devices rather than all in one’: Joff Thyer. 
 
-Hardware:
 
-- 2 x Lenovo ThinkCentre M910q $199 x 2
-- GL.iNet Slate AX (GL-AXT1800) $110
-- Netgear 8 port managed switch $91
-- CAT 6 Ultra Thin Ethernet Cables $12
-- Total: $610.64
-
-Software:
-- mullvad VPN $9/month
-
-Process:
-- ASUS RT-AX86S router: using guest network for homelab
-- GL-AXT1800 set up (repeater)
-- Mullvad VPN for GL-AXT1800
-- Netgear GS108E switch. (802.1Q) Use Netgear Discovery Tool to access admin panel. GL-AXT1800 plugged into port 1
-- If switch does not connect. Press factory defaults. Will then need add new password
-- Switch firmware update: select .bin file not whole zip folder
-- GL-AXT1800 has two VLANS out of the box: Private and Guest
-- Updated passwords wifi
-- VLANs: Virtual ports on top of physical ports. Connect devices to separate networks - Guest network, smart devices, video surveillance devices
-- LuCI
-
-- Took an Raspberry Pi 2 and put Pi-hole on it. Good to use a old RPi that was sitting in my drawer. Not sure if I will keep it long term. Wifi seems to be crappier over the last few days.
 
 
 
