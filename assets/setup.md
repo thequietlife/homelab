@@ -35,7 +35,7 @@ The mini lab took about one week to set up. I was determined to get it set up an
 **Tips:**
 
 * Take notes along the way. Having to search for Powershell commands or how to fix error messages a second time is annoying.
-* Start small 
+* It can be super frustrating. Being 95% way through and then some weird thing happens that you need to work out: trying other things to sort out a problem. But then it is so rewarding when it finally all comes together and works.
   
 **11 July 2025**
 I dug out a Raspberry Pi 2 and put Pi-hole on it. I have been meaning to set it up for ages. Was a fun little project. The wifi seems a bit sketchy. I might use the Raspberry Pi for something else and set up NextDNS instead.
@@ -46,7 +46,15 @@ Back to setting up an analysis lab. Set up FLARE-VM.
 **12 September 2025**
 Taking FLARE-VM for a 🏎️ spin.
 
+**Hardware:**
+* 2 x Lenovo ThinkCentre M910q $199 x 2
+* GL.iNet Slate AX (GL-AXT1800) $110
+* Netgear 8 port managed switch $91
+* CAT 6 Ultra Thin Ethernet Cables $12
+* Total: $610.64
 
+**Software:**
+* mullvad VPN $9/month
 __________________
 
 Sources: 
