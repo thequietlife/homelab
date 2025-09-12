@@ -4,20 +4,25 @@ My homelab journey started with virtual machines (VMs) loaded onto an external h
 
 I moved onto a 2017 iMac that had been gifted to me by a family member. I have a neat Apple A1048 keyboard I found from a business that was moving. 
 
+<br>
+
 <p align="center">
 <img
 src="https://github.com/thequietlife/homelab/blob/d3def557ffc74405cc6a1d83393ed6a2bc0e1352/images/iMac.jpeg"
 alt="2017 iMac with ubuntu as the operating system" width="600"/>
 
+<br>
+
 I set up Ubuntu on the iMac. This involved using balenaEtcher to create a bootable USB drive. It's pretty cool to bring a 2017 iMac back to life with a fresh operating system. For my hypervisor I have opted for Oracle VirtualBox. I like the VirtualBox UI and it's pretty easy to get the hang of.
 
+<br>
 
 <p align="center">
 <img
 src="https://github.com/thequietlife/homelab/blob/e7d33f696b2d1d03df5f271d80b34e5cadad777b/images/iMac_VM.png"
 alt="iMac desktop showing Oracle VirtualBox" width="600"/>
 
-
+<br>
 
 My current set up is a mini lab. I had a clear idea of what I wanted it to look like and what I wanted to achieve - a physically small setup, a space for my lab which was separate from the other devices in the house with VLANs. VLANs are virtual ports that sit on top of the switch’s physical ports. They let you connect devices to separate networks. I used draw.io to mock it up and asked for feedback in the pilar discord group. I got great feedback on how to set up a temporary, low cost lab. Using a travel router to piggy back on my existing ASUS router. I bought a Netgear GS108E 8 port managed switch, two tiny Lenovo M910q desktop PCs and a few CAT 6 ethernet cables.
 
