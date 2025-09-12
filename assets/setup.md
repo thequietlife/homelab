@@ -4,7 +4,7 @@ My homelab journey started with virtual machines (VMs) loaded onto an external h
 
 <p align="center">
 <img
-src="https://github.com/thequietlife/malware-analysis/blob/d2fb83843cf68c1bf3261e292822cc7ce886191d/images/iMac.jpeg"
+src="https://github.com/thequietlife/homelab/blob/d3def557ffc74405cc6a1d83393ed6a2bc0e1352/images/iMac.jpeg"
 alt="2017 iMac with ubuntu as the operating system" width="400"/>
 </p>
 I moved onto a 2017 iMac that had been gifted to me by a family member. I have a neat Apple A1048 keyboard I found from a business that was moving. I set up Ubuntu on the iMac. This involved using balenaEtcher to create a bootable USB drive. It's pretty cool to bring a 2017 iMac back to life with a fresh operating system. For my hypervisor I have opted for Oracle VirtualBox. 
