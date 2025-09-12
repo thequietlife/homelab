@@ -16,6 +16,7 @@ I set up Ubuntu on the iMac. This involved using balenaEtcher to create a bootab
 src="https://github.com/thequietlife/homelab/blob/e7d33f696b2d1d03df5f271d80b34e5cadad777b/images/iMac_VM.png"
 alt="iMac desktop showing Oracle VirtualBox" width="600"/>
 
+**Mini Lab**
 My current set up is a mini lab. I had a clear idea of what I wanted to achieve - a physically small setup and for my lab to be separate from the other devices in the house by using VLANs. VLANs are virtual ports that sit on top of the switch’s physical ports. They let you connect devices to separate networks. 
 
 <p align="center">
@@ -23,9 +24,7 @@ My current set up is a mini lab. I had a clear idea of what I wanted to achieve 
 src="https://github.com/thequietlife/homelab/blob/25f6a53df2c68b4242b6387b07729ab91a634a42/images/minilab.jpeg"
 alt="desk with a small travel router on top of a switch and two Lenovo tiny PCs; retro apple keyboard" width="600"/>
 
-
 I used draw.io to mock it up and asked for feedback in the pilar discord group. I got great feedback on how to set up a temporary, low cost lab. Using a travel router to piggy back on my existing ASUS router. I bought a Netgear GS108E 8 port managed switch, two tiny Lenovo M910q desktop PCs and a few CAT 6 ethernet cables.
-
 
 Building a homelab stayed on my To Do list for quite a while. It was a bit daunting to get started. Some of the homelabs on [reddit.com/r/homelab](reddit.com/r/homelab) are 🏢 huge. A buddy pointed me toward [Serve The Home's Project TinyMiniMicro Home Lab Revolution](https://www.servethehome.com/introducing-project-tinyminimicro-home-lab-revolution/) which I instantly liked. I also found [reddit.com/r/minilab](reddit.com/r/minilab) which was useful to see what others had made. I had to stop scrolling and start. 
 <br>
