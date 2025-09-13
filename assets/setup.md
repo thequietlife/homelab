@@ -16,7 +16,8 @@ I set up Ubuntu on the iMac. This involved using balenaEtcher to create a bootab
 src="https://github.com/thequietlife/homelab/blob/e7d33f696b2d1d03df5f271d80b34e5cadad777b/images/iMac_VM.png"
 alt="iMac desktop showing Oracle VirtualBox" width="600"/>
 
-**Mini Lab**
+**Mini Lab** <br>
+
 My current set up is a mini lab. I had a clear idea of what I wanted to achieve - a physically small setup and for my lab to be separate from the other devices in the house by using VLANs. VLANs are virtual ports that sit on top of the switch’s physical ports. They let you connect devices to separate networks. 
 
 <p align="center">
