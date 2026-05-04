@@ -1,5 +1,7 @@
 # notes on my homelab journey
 
+![tinkering](https://img.shields.io/badge/focus-tinkering-blue)
+
 From an external hard drive to a mini homelab: [My home lab](https://github.com/thequietlife/homelab/blob/main/assets/setup.md)
 
 <p align="center">
