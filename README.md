@@ -13,7 +13,7 @@ updated May 2026
 
 <p align="center">
 <img
-src="https://github.com/thequietlife/homelab/blob/e69ff8a4ed4eda3c24dd6095deb1fa0847bcb2f8/images/racoon.jpg"
-alt="2015 Macbook pro with ubuntu racoon as the operating system" width="400"/>
+src="https://github.com/thequietlife/homelab/blob/cb5683791d99d4843357ef9b79f2c12fd1c21fec/images/racoonWIP.jpg.jpg"
+alt="installing ubuntu racoon on 2015 macbook pro" width="400"/>
 
 
