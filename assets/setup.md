@@ -67,7 +67,10 @@ I'll see how I go using ubuntu racoon as my everyday OS. I think not being able 
 <p align="center">
 <img
 src"https://github.com/thequietlife/homelab/blob/3931da33714692b5b7e560a3696df89d961c5ed9/images/racoon.jpg"
-alt="2015 macbook pro with ubuntu racoon installed" width="600"/>
+alt="2015 macbook pro installed with ubuntu racoon" width="600"/>
+
+
+
 __________________
 
 Sources: 
