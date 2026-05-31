@@ -58,6 +58,7 @@ Taking FLARE-VM for a 🏎️ spin.
 * Mullvad VPN $9/month
 <br>
 <br>
+
 **30 May 2026**
 I love my apple macbook pro 2015. It was gifted to me a few years ago. I hit a snag with it when apple stopped updating the operating system and some of the apps I use everyday weren't going to supported namely my password manager. I did a bit of research to see what my options were. I was already using Ubuntu on the imac and really liked the UI and its features. I settled on Ubuntu again. It was time to create a bootable USB and finding a blank USB stick in my house was the biggest hurdle. I bought a pack of USB sticks. Last time I used balena etcher but I decided to try USBImager which was smooth. The biggest hurdle was the speed of my wi-fi, so the whole installation process took a bit longer. 
 I'll see how I go using ubuntu racoon as my everyday OS. I think not being able to sync my apple notes will be a hiccup. 
