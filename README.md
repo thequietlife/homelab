@@ -9,7 +9,7 @@ From an external hard drive to a mini homelab: [My home lab](https://github.com/
 src="https://github.com/thequietlife/homelab/blob/15d9d2cb04e5997b7f767164870006f19c647dc2/images/iMac.jpeg"
 alt="2017 iMac with ubuntu as the operating system" width="400"/>
 
-updated May 2026
+May 2026 update. [Ciao MacOS. Hello Ubuntu Racoon](https://github.com/thequietlife/homelab/blob/main/assets/setup.md)
 
 <p align="center">
 <img
