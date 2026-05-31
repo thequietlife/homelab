@@ -56,7 +56,9 @@ Taking FLARE-VM for a 🏎️ spin.
 
 **Software:**
 * Mullvad VPN $9/month
-  
+
+**30 May 2026**
+I love my apple macbook pro 2015. It was gifted to me a few years ago. I hit a snag with it when apple stopped updating the operating system and some of the apps I use everyday weren't going to supported namely my password manager. I did a bit of research to see what my options were. I was already using Ubuntu on the imac and really liked the UI and its features. I settled on Ubuntu again. It was time to create a bootable USB and finding a blank USB stick in my house was the biggest hurdle. I bought a pack of USB sticks. Last time I used balena etcher but I decided to try
 __________________
 
 Sources: 
