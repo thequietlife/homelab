@@ -11,5 +11,9 @@ alt="2017 iMac with ubuntu as the operating system" width="400"/>
 
 updated May 2026
 
+<p align="center">
+<img
+src="https://github.com/thequietlife/homelab/blob/e69ff8a4ed4eda3c24dd6095deb1fa0847bcb2f8/images/racoon.jpg"
+alt="2015 Macbook pro with ubuntu racoon as the operating system" width="400"/>
 
 
