@@ -13,7 +13,7 @@ updated May 2026
 
 <p align="center">
 <img
-src="https://github.com/thequietlife/homelab/blob/cb5683791d99d4843357ef9b79f2c12fd1c21fec/images/racoonWIP.jpg.jpg"
+src="https://github.com/thequietlife/homelab/blob/cb5683791d99d4843357ef9b79f2c12fd1c21fec/images/racoonWIP.jpg"
 alt="installing ubuntu racoon on 2015 macbook pro" width="400"/>
 
 
