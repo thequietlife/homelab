@@ -14,6 +14,6 @@ May 2026 update. [Ciao MacOS. Hello Ubuntu Racoon](https://github.com/thequietli
 <p align="center">
 <img
 src="https://github.com/thequietlife/homelab/blob/cb5683791d99d4843357ef9b79f2c12fd1c21fec/images/racoonWIP.jpg"
-alt="installing ubuntu racoon on 2015 macbook pro" width="400"/>
+alt="installing ubuntu raccoon on 2015 macbook pro" width="400"/>
 
 
