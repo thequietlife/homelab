@@ -86,6 +86,13 @@ I was really surprised by the amount of dust bunnies and dust in the laptop.
 <img
 src="https://github.com/thequietlife/homelab/blob/3e472be6159cab3de2b0ffa3c7d426ffda2e603c/images/dirt_two.jpg"
 alt="inside the 2015 macbook pro - close up of dust" width="400"/>
+
+It was rewarding taking the time to wipe away the dust. The fan still has a bit of embedded dust but overall the inside of the MBP is heaps better than when I opened it.
+
+<p align="center">
+<img
+src="https://github.com/thequietlife/homelab/blob/c9344d57d3e003a5324a4defab05bdb50bf781d8/images/clean_one.jpg"
+alt="inside the 2015 macbook pro - close up of dust" width="400"/>
 __________________
 
 Sources: 
