@@ -63,7 +63,7 @@ Taking FLARE-VM for a 🏎️ spin.
 I love my apple macbook pro 2015 (MBP). It was gifted to me a few years ago and has been a great laptop. I hit a snag with it when apple stopped updating the operating system and some of the apps I use everyday weren't going to supported namely my password manager. I did a bit of research to see what my options were. I was already using Ubuntu on the imac and really liked the UI and its features. I settled on Ubuntu again. It was time to create a bootable USB and finding a blank USB stick in my house was the biggest hurdle. I bought a pack of USB sticks. Last time I used balena etcher but I decided to try USBImager which was smooth. The biggest hurdle was the speed of my wi-fi, so the whole installation process took a bit longer. 
 I'll see how I go using ubuntu racoon as my everyday OS. I think not being able to sync my apple notes will be a hiccup. 
 
-Now I am waiting for my pentalobe screwdriver to arrive so I can open up the MBP and see if it needs to be dusted and new thermal paste.
+Now I am waiting for my pentalobe screwdriver to arrive so I can open up the MBP and see if it needs to be dusted.
 
 
 <p align="center">
@@ -71,6 +71,13 @@ Now I am waiting for my pentalobe screwdriver to arrive so I can open up the MBP
 src="https://github.com/thequietlife/homelab/blob/8bcd582758367c5bddc089ff3e36c8341f68b537/images/racoon.jpg"
 alt="2015 macbook pro installed with ubuntu racoon" width="400"/>
 
+**9 June 2026**
+**Cleaning Time**
+
+<p align="center">
+<img
+src="https://github.com/thequietlife/homelab/blob/203ae640c6b26f443fdc1ec5fed5c5e18af21a44/images/dirt_one.jpg"
+alt="inside the 2015 macbook pro - dusty" width="400"/>
 __________________
 
 Sources: 
