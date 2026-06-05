@@ -71,13 +71,21 @@ Now I am waiting for my pentalobe screwdriver to arrive so I can open up the MBP
 src="https://github.com/thequietlife/homelab/blob/8bcd582758367c5bddc089ff3e36c8341f68b537/images/racoon.jpg"
 alt="2015 macbook pro installed with ubuntu racoon" width="400"/>
 
-**9 June 2026**
-**Cleaning Time**
+**9 June 2026 Cleaning Time**
+
+The pentalobe screwdriver I ordered from AliExpress is really good. It feels nice and smooth. I bought a kit of screwdrivers from my local hardware a while ago and they felt awful, the grips were really scratchy. This screwdriver was under $2 and fit really well in the screw holes.
 
 <p align="center">
 <img
 src="https://github.com/thequietlife/homelab/blob/203ae640c6b26f443fdc1ec5fed5c5e18af21a44/images/dirt_one.jpg"
 alt="inside the 2015 macbook pro - dusty" width="400"/>
+
+I was really surprised by the amount of dust bunnies and dust in the laptop.
+
+<p align="center">
+<img
+src="https://github.com/thequietlife/homelab/blob/3e472be6159cab3de2b0ffa3c7d426ffda2e603c/images/dirt_two.jpg"
+alt="inside the 2015 macbook pro - close up of dust" width="400"/>
 __________________
 
 Sources: 
