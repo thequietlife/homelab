@@ -92,7 +92,14 @@ It was rewarding taking the time to wipe away the dust. The fan still has a bit 
 <p align="center">
 <img
 src="https://github.com/thequietlife/homelab/blob/c9344d57d3e003a5324a4defab05bdb50bf781d8/images/clean_one.jpg"
-alt="inside the 2015 macbook pro - close up of dust" width="400"/>
+alt="inside the 2015 macbook pro - now cleaner" width="400"/>
+
+I'd definitely recommend opening up a older laptop and checking to see if it needs a clean. I'm hoping it will help the fan and general laptop work smoother.
+
+<p align="center">
+<img
+src="https://github.com/thequietlife/homelab/blob/a6d4e9f93935acbde0876a4ada715746c1cbc29a/images/clean_two.jpg"
+alt="inside the 2015 macbook pro - close up of clean" width="400"/>
 __________________
 
 Sources: 
