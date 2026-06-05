@@ -17,3 +17,8 @@ src="https://github.com/thequietlife/homelab/blob/cb5683791d99d4843357ef9b79f2c1
 alt="installing ubuntu raccoon on 2015 macbook pro" width="400"/>
 
 June 2026 🐇 [Dust bunnies in my MBP!](https://github.com/thequietlife/homelab/blob/main/assets/setup.md)
+
+<p align="center">
+<img
+src="https://github.com/thequietlife/homelab/blob/fcf17cad1b1dd83b895d80cd15b9bfe883368896/images/dirt_two.jpg"
+alt="dust build up inside laptop" width="400"/>
