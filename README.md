@@ -6,6 +6,6 @@
 
 <p align="center">
 <img
-src="https://github.com/thequietlife/homelab/blob/15d9d2cb04e5997b7f767164870006f19c647dc2/images/iMac.jpeg"
-alt="2017 iMac with ubuntu as the operating system" width="400"/>
+src="https://github.com/thequietlife/homelab/blob/835c8ef954f3a4ddc08d5dec6db16c137af793e6/images/minilab.jpeg"
+alt="mini homelab" width="400"/>
 
