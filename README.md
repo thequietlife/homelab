@@ -1,6 +1,6 @@
 [notes on my homelab journey](https://github.com/thequietlife/homelab/blob/main/assets/setup.md)
 
-![tinkering](https://img.shields.io/badge/focus-tinkering-blue)
+![tinkering](https://img.shields.io/badge/focus-homelab-blue)
 
 <p align="center">
 <img
