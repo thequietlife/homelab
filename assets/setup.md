@@ -111,4 +111,3 @@ Sources:
 
 - [LearnLinuxTV](https://youtu.be/8kiykcnT7F4?si=To7PV-YwPgPE5gkT)
 
-- [Action Retro](https://youtu.be/lpF09e58Jrc?si=DSB_26QFlhf0dC2L)
