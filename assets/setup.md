@@ -74,32 +74,8 @@ alt="2015 macbook pro installed with ubuntu racoon" width="400"/>
 **9 June 2026 Cleaning Time**
 
 The pentalobe screwdriver I ordered from AliExpress is really good. It feels nice and smooth. I bought a kit of screwdrivers from my local hardware a while ago and they felt awful, the grips were really scratchy. This screwdriver was under $2 and fit really well in the screw holes.
+I was really surprised by the amount of dust bunnies and dust in the laptop. It was rewarding taking the time to wipe away the dust. The fan still has a bit of embedded dust but overall the inside of the MBP is heaps better than when I opened it. I'd definitely recommend opening up a older laptop and checking to see if it needs a clean. I'm hoping it will help the fan and general laptop work smoother.
 
-<p align="center">
-<img
-src="https://github.com/thequietlife/homelab/blob/203ae640c6b26f443fdc1ec5fed5c5e18af21a44/images/dirt_one.jpg"
-alt="inside the 2015 macbook pro - dusty" width="400"/>
-
-I was really surprised by the amount of dust bunnies and dust in the laptop.
-
-<p align="center">
-<img
-src="https://github.com/thequietlife/homelab/blob/3e472be6159cab3de2b0ffa3c7d426ffda2e603c/images/dirt_two.jpg"
-alt="inside the 2015 macbook pro - close up of dust" width="400"/>
-
-It was rewarding taking the time to wipe away the dust. The fan still has a bit of embedded dust but overall the inside of the MBP is heaps better than when I opened it.
-
-<p align="center">
-<img
-src="https://github.com/thequietlife/homelab/blob/c9344d57d3e003a5324a4defab05bdb50bf781d8/images/clean_one.jpg"
-alt="inside the 2015 macbook pro - now cleaner" width="400"/>
-
-I'd definitely recommend opening up a older laptop and checking to see if it needs a clean. I'm hoping it will help the fan and general laptop work smoother.
-
-<p align="center">
-<img
-src="https://github.com/thequietlife/homelab/blob/a6d4e9f93935acbde0876a4ada715746c1cbc29a/images/clean_two.jpg"
-alt="inside the 2015 macbook pro - close up of clean" width="400"/>
 __________________
 
 Sources: 
