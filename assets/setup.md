@@ -81,7 +81,7 @@ __________________
 Sources: 
 - [Joff Thyer, Black Hills Information Security, Pandemic Paradigm Shift Remote working *is* the New Normal](https://www.blackhillsinfosec.com/wp-content/uploads/2020/09/SLIDES_PandemicParadigmShift.pdf)
 
-- [Kyle Cucci's Evasive Malware: Understanding Deceptive and Self-Defending Threats](https://nostarch.com/evasive-malware)
+- [Kyle Cucci, Evasive Malware: Understanding Deceptive and Self-Defending Threats](https://nostarch.com/evasive-malware)
 
 - [Dr Josh Stroschein - The Cyber Yeti, Building a VM for Reverse Engineering and Malware Analysis! Installing the FLARE-VM](https://youtu.be/i8dCyy8WMKY?si=fPyQ1IvwUlKwmISu)
 
